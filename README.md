@@ -8,7 +8,7 @@
 ⠀⠀⠀⠑⠠⠚⠀⠓⠔⠋⠀⠀
 ⊹
 ``` 
-# Hi, I'm Lumielulu!
+# Hi, I'm Lumielulu! ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
 ![hatsune miku chibi GIF](https://github.com/user-attachments/assets/aa936979-488c-491d-9bf2-357c804a7348)
 
