@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lumielulu!
 
-![Hatsune Miku Banner](https://giphy.com/gifs/NcmFhiGWijdO6xfroQ)
+![Image](https://github.com/user-attachments/assets/7dbd69b5-9dff-4049-ab6a-aefb2d6e2ad1)
 
 ## 🌸 About Me
 
