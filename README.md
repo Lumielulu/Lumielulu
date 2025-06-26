@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lumielulu!
 
-![Hatsune Miku Banner](https://media.tenor.com/-JtF1qXK2eEAAAAC/hatsune-miku.gif)
+![Hatsune Miku Banner](https://giphy.com/gifs/NcmFhiGWijdO6xfroQ)
 
 ## 🌸 About Me
 
