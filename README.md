@@ -33,7 +33,6 @@ Currently, I'm building my very first open-source wiki app: **Project Sekai Wiki
 - Building fun, game-inspired projects
 - All things **Hatsune Miku** and rhythm games
 - Learning new frameworks and tools
-- Collaborating with fellow fans & devs
 
 ---
 
