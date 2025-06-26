@@ -14,7 +14,7 @@
 
 ## 𖦹 ׂ 𓈒 🥞 ／ ⋆ ۪ About Me
 
-I'm a **Full Stack Junior Developer** passionate about creating apps and tools inspired by my favorite games—especially anything related to Hatsune Miku!  
+Self-taught developer passionate about creating apps and tools inspired by my favorite games—especially anything related to Hatsune Miku!  
 Currently, I'm building my very first open-source wiki app: **Project Sekai Wiki**, using **React** (front end) and **Django + PostgreSQL** (back end). My dream is to make a space for fellow fans to explore, contribute, and celebrate the world of Hatsune Miku!
 
 ---
