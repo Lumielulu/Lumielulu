@@ -1,4 +1,4 @@
-⊹
+```txt⊹
 ⢠⡏⠉⠑⢄⠀ ⠀  ⡠⠋⠉⢱⡀
 ⡇⠙⠒⠒⠬⡗⢒⢮⠄⠒⠒⠁⢣
 ⠇⠀⠈⠁⢁⡷⠤⢮⠈⠁⠀⠀⡌
@@ -6,7 +6,8 @@
 ⠀⡎⠘⢀⠇⠀⠀⠀⢱⠈⠂⠡⠀
 ⠀⠑⢄⡜⠢⡀⠀⢀⠔⠇⡴⠃⠀
 ⠀⠀⠀⠑⠠⠚⠀⠓⠔⠋⠀⠀
-⊹ 
+⊹
+``` 
 # Hi, I'm Lumielulu!
 
 ![hatsune miku chibi GIF](https://github.com/user-attachments/assets/aa936979-488c-491d-9bf2-357c804a7348)
@@ -59,7 +60,7 @@ _A wiki platform dedicated to Project Sekai & Hatsune Miku games!_
 
 _Thanks for stopping by!_ 
 _Miku is love, Miku is life!_ °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
-
+```txt
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⣤⣤⠴⠥⣕⣐⠤⣄⠀⠀
 ⠀⠀⠀⠀⠀⠀⣀⣴⣖⣶⡦⡄⠀⠀⠀⠀⠀⠀⣴⡿⣻⣿⣿⣯⣿⣿⣙⣝⣷⣣⡀
 ⠀⠀⠀⢀⣴⣯⣿⣿⣷⣯⣟⣿⣆⠀⠀⠀⣴⣿⣿⢗⡿⠛⠛⠛⠺⣟⣟⣽⡿⣳⡇
@@ -76,4 +77,5 @@ _Miku is love, Miku is life!_ °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢏⡻⣯⡿⣿⣏⣟⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠺⡻⣏⢟⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
 ![Image](https://github.com/user-attachments/assets/7dbd69b5-9dff-4049-ab6a-aefb2d6e2ad1)
