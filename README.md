@@ -57,7 +57,7 @@ _A wiki platform dedicated to Project Sekai & Hatsune Miku games!_
 
 ---
 
-_Thanks for stopping by!_  
+_Thanks for stopping by!_ 
 _Miku is love, Miku is life!_ °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⣤⣤⠴⠥⣕⣐⠤⣄⠀⠀
