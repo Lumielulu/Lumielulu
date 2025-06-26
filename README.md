@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lumielulu!
 
-![Image](https://github.com/user-attachments/assets/7dbd69b5-9dff-4049-ab6a-aefb2d6e2ad1)
+![hatsune miku chibi GIF](https://github.com/user-attachments/assets/aa936979-488c-491d-9bf2-357c804a7348)
 
 ## 🌸 About Me
 
@@ -51,4 +51,5 @@ _A wiki platform dedicated to Project Sekai & Hatsune Miku games!_
 _Thanks for stopping by!_  
 _Miku is love, Miku is life!_ 💙
 
-![Miku Waving](https://media.tenor.com/5yRZVmbHc7wAAAAC/miku-hatsune-miku.gif)
+
+![Image](https://github.com/user-attachments/assets/7dbd69b5-9dff-4049-ab6a-aefb2d6e2ad1)
